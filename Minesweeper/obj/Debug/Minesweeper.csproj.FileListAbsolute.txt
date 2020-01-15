@@ -1,0 +1,9 @@
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MinesweeperForm.resources
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\zinge\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
