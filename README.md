@@ -11,7 +11,7 @@ Projekt zawiera:
 'BJTests' - testy jednostkowe
 
 ## Instrukcja
-
+```
 	Celem gracza w blackjacku jest zebranie łącznej sumy punktów w swoich kartach, która jest 'równa' lub jak 'najbliższa od dołu liczbie 21' – bez jej przekroczenia!
 
 Zebranie powyżej 21 punktów oznacza przegrane rozdanie.
@@ -19,15 +19,15 @@ Zebranie powyżej 21 punktów oznacza przegrane rozdanie.
 Zebranie dokładnie 21 punktów (tzw. „oczko”) czyli dobranie blackjacka jest od razu zwycięstwem gracza, chyba że krupier też dobierze 21 (remis).
 
 #### Przebieg rozgrywki
-```
+
 * Gra zaczyna się od rozadania czterach, kart dwie dla gracza oraz dwie dla krupiera. Podczas rozgrywki można wykonać dwie czynności pobrać kartę albo zpasować. 
 
 * Po zpasowaniu następuje ruch krupiera, który dobiera tak długo aż przebije gracza. 
 
 * Na samym końcy sprawdzana jest wartość kart.
-```
+
 #### Punktacja
-```
+
 * Karty od dwójki do dziesiątki mają wartość równą numerowi karty.
 
 * Walet, Dama i Król mają wartość równą 10 punktów.
@@ -41,7 +41,8 @@ Zebranie dokładnie 21 punktów (tzw. „oczko”) czyli dobranie blackjacka jes
 * Microsoft .NET Framework
 	
 ## Twórcy
+```
+* [Adam Prodyk](https://github.com/aprocyk) - Lider 
 
-[Adam Prodyk](https://github.com/aprocyk) - Lider
-
-[Michał gancarczyk](https://github.com/mgancarczyk)
+*[Michał gancarczyk](https://github.com/mgancarczyk)
+```
