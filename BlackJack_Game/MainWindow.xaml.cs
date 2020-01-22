@@ -53,6 +53,9 @@ namespace BlackJack_Game
             ImageBrush myBrush = new ImageBrush();
             myBrush.ImageSource = new ImageSourceConverter().ConvertFromString(@"../../CardsSprites/Blacjacktable.png") as ImageSource;
             Board.Background = myBrush;
+
+            StandButton.Visibility = Visibility.Hidden;
+            HitButton.Visibility = Visibility.Hidden;
             
 
 
