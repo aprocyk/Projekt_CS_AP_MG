@@ -43,4 +43,5 @@ Zebranie dokładnie 21 punktów (tzw. „oczko”) czyli dobranie blackjacka jes
 ## Twórcy
 
 [Adam Prodyk](https://github.com/aprocyk) - Lider
+
 [Michał gancarczyk](https://github.com/mgancarczyk)
