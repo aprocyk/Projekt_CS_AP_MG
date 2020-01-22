@@ -1,0 +1,17 @@
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\bin\Debug\BlackJack_Game.exe.config
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\bin\Debug\BlackJack_Game.exe
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\bin\Debug\BlackJack_Game.pdb
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game.csprojAssemblyReference.cache
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\MainWindow.g.cs
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\App.g.cs
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game_MarkupCompile.cache
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game_MarkupCompile.lref
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\MainWindow.baml
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game.g.resources
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game.Properties.Resources.resources
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game.csproj.GenerateResource.cache
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game.exe
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game.pdb
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\bin\Debug\BJLogic.dll
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\bin\Debug\BJLogic.pdb
+C:\Users\zinge\source\repos\BlackJack_Game\BlackJack_Game\obj\Debug\BlackJack_Game.csproj.CopyComplete

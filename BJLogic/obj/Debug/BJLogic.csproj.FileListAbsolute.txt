@@ -1,0 +1,5 @@
+C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\bin\Debug\BJLogic.dll
+C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\bin\Debug\BJLogic.pdb
+C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\obj\Debug\BJLogic.csprojAssemblyReference.cache
+C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\obj\Debug\BJLogic.dll
+C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\obj\Debug\BJLogic.pdb
