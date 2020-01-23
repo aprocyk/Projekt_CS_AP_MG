@@ -3,3 +3,8 @@ C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\bin\Debug\BJLogic.pdb
 C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\obj\Debug\BJLogic.csprojAssemblyReference.cache
 C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\obj\Debug\BJLogic.dll
 C:\Users\zinge\source\repos\BlackJack_Game\BJLogic\obj\Debug\BJLogic.pdb
+W:\Uprogramowanko\Projekt_CS_AP_MG\BJLogic\bin\Debug\BJLogic.dll
+W:\Uprogramowanko\Projekt_CS_AP_MG\BJLogic\bin\Debug\BJLogic.pdb
+W:\Uprogramowanko\Projekt_CS_AP_MG\BJLogic\obj\Debug\BJLogic.dll
+W:\Uprogramowanko\Projekt_CS_AP_MG\BJLogic\obj\Debug\BJLogic.pdb
+W:\Uprogramowanko\Projekt_CS_AP_MG\BJLogic\bin\Debug\BJLogic.xml

@@ -14,13 +14,13 @@
         <TextBox x:Name="D1" HorizontalAlignment="Left" Height="23" Margin="22,258,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="19"/>
         <TextBox x:Name="textboxPlayerCards" HorizontalAlignment="Left" Height="23" Margin="63,258,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="15"/>
         <Label x:Name="dealerScore" HorizontalAlignment="Left" Height="25" Margin="332,144,0,0" Content="0" VerticalAlignment="Top" Width="33" FontSize="14"/>
-        <Label x:Name="info" Height="50" Margin="187,172,239,0" VerticalAlignment="Top" Background="{x:Null}" HorizontalAlignment="Center" Width="241" HorizontalContentAlignment="Center" />
+        <Label x:Name="info" Height="50" Margin="187,172,185,0" VerticalAlignment="Top" Background="{x:Null}" HorizontalAlignment="Center" Width="295" HorizontalContentAlignment="Center" />
         <Label x:Name="labelHasA" HorizontalAlignment="Left" Height="23" Margin="101,240,0,0" VerticalAlignment="Top" Width="19" BorderThickness="0"/>
         <Label x:Name="label1" Content="Dealer" HorizontalAlignment="Left" Margin="123,52,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe Script" FontWeight="Bold"/>
         <Label x:Name="label2" Content="Punkty:" HorizontalAlignment="Left" Margin="262,144,0,0" VerticalAlignment="Top" FontFamily="Segoe Script" FontSize="14"/>
         <Label x:Name="label4" Content="Gracz" HorizontalAlignment="Left" Margin="187,306,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe Script" FontWeight="Bold"/>
         <Label x:Name="label6" Content="Punkty:" HorizontalAlignment="Left" Margin="262,220,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Segoe Script"/>
-        <Label x:Name="playerScore" HorizontalAlignment="Left" Height="30" Margin="332,222,0,0" Content="0" VerticalAlignment="Top" Width="20" FontSize="14"/>
+        <Label x:Name="playerScore" HorizontalAlignment="Left" Height="30" Margin="332,222,0,0" Content="0" VerticalAlignment="Top" Width="33" FontSize="14"/>
         <Label x:Name="label_Cards_left" Content="Pozostałe karty" HorizontalAlignment="Left" Margin="0,153,0,0" VerticalAlignment="Top" FontFamily="Segoe Script" FontWeight="Bold" FontSize="16"/>
         <Label x:Name="Cards_left" HorizontalAlignment="Left" Height="36" Margin="46,172,0,0" Content="52" VerticalAlignment="Top" Width="32" FontSize="20"/>
         <Canvas x:Name="PlayerCards" HorizontalAlignment="Left" Height="99" Margin="240,275,0,0" VerticalAlignment="Top" Width="365">

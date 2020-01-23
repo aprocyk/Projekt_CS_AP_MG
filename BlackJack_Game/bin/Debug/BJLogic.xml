@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BJLogic</name>
+    </assembly>
+    <members>
+        <member name="M:BJLogic.Game.GetTotalPlayer">
+            <summary>
+            Pobierz punkty gracza 
+            </summary>
+        </member>
+        <member name="M:BJLogic.Game.GetTotalDealer">
+            <summary>
+            Pobierz punkty dealera  
+            </summary> 
+        </member>
+        <member name="M:BJLogic.Game.DealerAddCard(System.Collections.Generic.List{BJLogic.Card})">
+            <summary>
+            Dealer dobiera 1 karte 
+            </summary>
+        </member>
+        <member name="M:BJLogic.Game.PlayerAddCard(System.Collections.Generic.List{BJLogic.Card})">
+            <summary> 
+            Gracz dobiera jedna karte 
+            </summary> 
+        </member>
+        <member name="M:BJLogic.Game.PlayerHasA">
+            <summary>
+            Sprawdza czy gracz posiada Asa  
+            </summary>
+            <returns></returns>  
+        </member>
+        <member name="M:BJLogic.Game.DealerHasA">
+            <summary>
+            Sprawdza czy dealer posiada Asa   
+            </summary>  
+            <returns></returns> 
+        </member>
+        <member name="M:BJLogic.Game.EndCheck">
+            <summary>
+            Koniec gry: ustalenie zwycięzcy
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BJLogic.Game.EndMessage">
+            <summary>      
+            Koniec gry: ustalenie sposobu wygranej
+            </summary>
+            <returns></returns> 
+        </member>
+        <member name="M:BJLogic.Game.EndGame">
+            <summary>
+            Reset punktow
+            </summary>
+        </member>
+        <member name="M:BJLogic.Game.GameStart">
+            <summary>
+            Rozpoczecie gry: Gracz i Dealer otrzymują po 2 karty  
+            </summary> 
+        </member>
+        <member name="M:BJLogic.Game.DealerMove">
+            <summary>
+            Ruch dealera, sprawdzenie sytuacji punktowej
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BJLogic.Game.IsOverflow">
+            <summary>
+            Przegrana gracza poprzez przekroczenie ilosci punktow
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BJLogic.Game.Hit(System.Collections.Generic.List{BJLogic.Card})">
+            <summary>
+            Dobierz karte 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

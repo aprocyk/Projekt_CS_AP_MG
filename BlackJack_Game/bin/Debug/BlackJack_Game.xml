@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlackJack_Game</name>
+    </assembly>
+    <members>
+        <member name="T:BlackJack_Game.App">
+            <summary>
+            Logika interakcji dla klasy App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:BlackJack_Game.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:BlackJack_Game.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:BlackJack_Game.MainWindow">
+            <summary>
+            Logika interakcji dla klasy MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:BlackJack_Game.MainWindow.DrawPlayer(System.String)">
+            <summary>
+            Rysowanie kart gracza
+            </summary>
+            <param name="card">Przenosimy karte ktora chcemy narysowac</param>
+        </member>
+        <member name="M:BlackJack_Game.MainWindow.PlayerCardDraw">
+            <summary>
+            Losowanie 2 pierwszych kart gracza
+            </summary>
+        </member>
+        <member name="M:BlackJack_Game.MainWindow.DrawDealer(System.String)">
+            <summary>
+            Rysowanie kart dealera
+            </summary>
+            <param name="card">Przenosimy karte ktora chcemy narysowac</param>
+        </member>
+        <member name="M:BlackJack_Game.MainWindow.DealerCardDraw">
+            <summary>
+            Losowanie 2 pierwszych kart Dealera
+            </summary>
+        </member>
+        <member name="M:BlackJack_Game.MainWindow.PlayerCardsRemoveAndBackToStartPosition">
+            <summary>
+            Usuwamy karty Gracza i powracamy do domyslnej pozycji rysowania
+            </summary>
+        </member>
+        <member name="M:BlackJack_Game.MainWindow.DealerCardsRemoveAndBackToStartPosition">
+            <summary>
+            Usuwamy karty Dealera i powracamy do domyslnej pozycji rysowania
+            </summary>
+        </member>
+        <member name="M:BlackJack_Game.MainWindow.DrawBlockedDealer">
+            <summary>
+            Dobierz zasłonieta karte
+            </summary>
+        </member>
+        <member name="M:BlackJack_Game.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BlackJack_Game.Properties.Resources">
+            <summary>
+              Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+            </summary>
+        </member>
+        <member name="P:BlackJack_Game.Properties.Resources.ResourceManager">
+            <summary>
+            Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+            </summary>
+        </member>
+        <member name="P:BlackJack_Game.Properties.Resources.Culture">
+            <summary>
+              Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+              przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+            </summary>
+        </member>
+    </members>
+</doc>
